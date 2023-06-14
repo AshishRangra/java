@@ -3,7 +3,7 @@ import java.util.Collections;
 
 public class arraylist {
     public static void main(String[] args) {
-        ArrayList<Integer> arrayList = new ArrayList<>();
+        ArrayList<Integer> arrayList = new ArrayList<>();teri mari 
         arrayList.add(24);
         arrayList.add(32);
         arrayList.add(90);
